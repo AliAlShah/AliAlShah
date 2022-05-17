@@ -7,7 +7,7 @@ I am currently improving my python skills and learning how to develop VR apps wi
 Skills: Python / Unity 
 
 - 🌱 I’m currently learning Python game development with pygame and django development 
-- 👯 I’m looking to collaborate on Anything related to machine learning  
+- 👯 I’m looking to collaborate on Anything related to python or machine learning
 - 📫 How to reach me: Twitter: https://twitter.com/Ali_AlShah 
 
 
